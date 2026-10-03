@@ -57,20 +57,6 @@ After installation, launch **Screen Recorder** and start recording.
 
 No complicated manual setup should be required.
 
-## Repository Contents
-
-The repository contains:
-
-```text
-Screen Recorder/
-├── Source Code/
-├── Installer.exe
-├── Application Files/
-└── README.md
-```
-
-The exact folder structure may vary depending on the version of the project.
-
 ## Development
 
 The complete source code is included in this repository.
